@@ -1,0 +1,16 @@
+sys
+BaseBytesMemoryTests
+BaseMemoryviewTests
+BaseMemorySliceTests
+BaseMemorySliceSliceTests
+io
+array
+AbstractMemoryTests
+test_main
+test_support
+gc
+weakref
+BytesMemorySliceTest
+BytesMemoryviewTest
+BytesMemorySliceSliceTest
+unittest

@@ -1,0 +1,14 @@
+interrupt_main
+stack_size
+_traceback
+_main
+allocate_lock
+__file__
+__all__
+exit
+_interrupt
+error
+get_ident
+start_new_thread
+_local
+LockType

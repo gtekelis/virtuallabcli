@@ -1,0 +1,14 @@
+PersPicklerTests
+BigmemPickleTests
+pickle
+PickleTests
+AbstractPicklerUnpicklerObjectTests
+test_support
+test_main
+PicklerUnpicklerObjectTests
+PicklerTests
+AbstractPickleModuleTests
+StringIO
+AbstractPersistentPicklerTests
+AbstractPickleTests
+PickleBigmemPickleTests

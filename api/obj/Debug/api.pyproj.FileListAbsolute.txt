@@ -1,0 +1,1 @@
+C:\_WORKS\NTUA\VirtualLabApi\VirtualLabApi\api\obj\Debug\api.pyproj.CoreCompileInputs.cache

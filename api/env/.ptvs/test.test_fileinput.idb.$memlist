@@ -1,0 +1,16 @@
+sys
+hook_encoded
+writeTmp
+re
+BufferSizesTests
+StringIO
+run_unittest
+TESTFN
+FileInputTests
+test_main
+remove_tempfiles
+verbose
+Test_hook_encoded
+safe_unlink
+unittest
+FileInput
