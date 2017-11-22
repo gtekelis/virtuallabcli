@@ -192,5 +192,6 @@ True
 SSL_ERROR_EOF
 gethostname
 error
+RAND_egd
 gethostbyname
 IPV6_LEAVE_GROUP

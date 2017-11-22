@@ -1,9 +1,14 @@
+translate
 fnmatchcase
 _MAXCACHE
+FilterTestCase
 test_support
-fnmatch
+unittest
 _cache
 _purge
+os
+filter
 test_main
+TranslateTestCase
 FnmatchTestCase
-unittest
+fnmatch

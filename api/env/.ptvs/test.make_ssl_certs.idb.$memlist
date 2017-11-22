@@ -1,6 +1,6 @@
 cert
 check_call
-list2cmdline
+f
 open
 CalledProcessError
 here
@@ -11,6 +11,7 @@ key
 call
 STD_ERROR_HANDLE
 True
+select
 STD_INPUT_HANDLE
 CREATE_NEW_CONSOLE
 PIPE
@@ -21,12 +22,12 @@ make_cert_key
 False
 __file__
 Popen
-STARTF_USESHOWWINDOW
+STDOUT
 SW_HIDE
 traceback
-errno
-f
 msvcrt
+errno
+list2cmdline
 threading
 range
 signal
@@ -37,11 +38,11 @@ pywintypes
 CREATE_NEW_PROCESS_GROUP
 unmake_ca
 req_template
-select
+extra_san
 os
 MAXFD
 tempfile
 shutil
 STARTUPINFO
 gc
-STDOUT
+STARTF_USESHOWWINDOW

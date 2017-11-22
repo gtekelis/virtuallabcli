@@ -3,6 +3,7 @@ polar
 rect
 pi
 test_file
+y
 run_unittest
 CMathTests
 phase
@@ -12,7 +13,7 @@ parse_testfile
 test_main
 cmath
 math
-y
+cpython_only
 complex_nans
 x
 unittest

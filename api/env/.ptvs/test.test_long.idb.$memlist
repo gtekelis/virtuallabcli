@@ -1,12 +1,14 @@
 MASK
 BASE
+test_main
+LongSubclass
 L
 Frm
 p2
 SHIFT
 sys
 test_int
-test_main
+OtherLongSubclass
 test_support
 MAXDIGITS
 math

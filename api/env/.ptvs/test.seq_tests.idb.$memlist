@@ -4,7 +4,7 @@ Sequence
 CommonTest
 IterGenExc
 LyingTuple
-IterNextOnly
+support
 imap
 IterNoNext
 LyingList
@@ -12,5 +12,6 @@ IterGen
 IterFunc
 itermulti
 chain
+IterNextOnly
 unittest
 iterfunc

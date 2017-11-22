@@ -2,14 +2,14 @@ sysconfig
 PosixUidGidTests
 time
 TemporaryFileTests
-ExecvpeTests
+ExecTests
 DevNullTests
 EnvironTests
 StatAttributeTests
 textwrap
 FileTests
 os
-test_main
+SpawnTests
 mmap
 URandomTests
 mapping_tests
@@ -25,6 +25,7 @@ resource
 HAVE_GETENTROPY
 warnings
 uuid
+test_main
 URandomFDTests
 Win32KillTests
 MakedirTests

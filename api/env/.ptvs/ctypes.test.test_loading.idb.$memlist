@@ -23,6 +23,7 @@ c_byte
 c_char
 DllGetClassObject
 ArgumentError
+get_errno
 __name__
 c_buffer
 OSError
@@ -66,10 +67,11 @@ sys
 BigEndianStructure
 LoaderTest
 c_int32
+unicode
 WINFUNCTYPE
 memset
 c_short
-get_errno
+support
 c_int64
 alignment
 c_uint64
@@ -80,8 +82,8 @@ is_resource_enabled
 CFUNCTYPE
 c_ulonglong
 HRESULT
-resize
 string_at
+resize
 util
 Structure
 c_longlong

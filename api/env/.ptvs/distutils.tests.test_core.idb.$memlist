@@ -1,5 +1,6 @@
 distutils
 setup_using___file__
+log
 os
 CoreTestCase
 sys

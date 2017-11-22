@@ -3,7 +3,7 @@ errno
 open
 codecs
 unicode_literals
-TextIOBase
+__all__
 BufferedRWPair
 BytesIO
 OpenWrapper
@@ -20,7 +20,8 @@ io
 warnings
 RawIOBase
 EINTR
-__all__
+sys
+TextIOBase
 SEEK_END
 BufferedReader
 __metaclass__

@@ -11,10 +11,9 @@ fix_input
 fix_buffer
 fix_repr
 fix_raw_input
-fix_ws_comma
 fix_apply
-fix_types
-fix_callable
+fix_ws_comma
+fix_metaclass
 fix_itertools
 fix_imports2
 fix_print
@@ -38,7 +37,7 @@ fix_execfile
 fix_dict
 fix_import
 fix_next
-fix_metaclass
+fix_types
 fix_throw
 fix_raise
 fix_intern

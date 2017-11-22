@@ -1,7 +1,8 @@
 TestClassesAndFunctions
-unittest
 check_py3k_warnings
+TestBuggyCases
 test_main
+TestGetcallargsFunctionsCellVars
 datetime
 TestGetcallargsMethods
 types
@@ -17,7 +18,7 @@ unicodedata
 re
 UserList
 tb
-TestBuggyCases
+unittest
 TestGetcallargsUnboundMethods
 TestRetrievingSourceCode
 linecache
@@ -25,11 +26,13 @@ run_unittest
 sys
 _BrokenDataDescriptor
 GetSourceBase
+have_unicode
 UserDict
 _BrokenMethodDescriptor
 TestGetcallargsFunctions
 TestPredicates
 git
+textwrap
 __builtin__
 generator_function_example
 mod

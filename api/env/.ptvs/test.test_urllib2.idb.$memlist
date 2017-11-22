@@ -1,5 +1,6 @@
 build_test_opener
 RequestTests
+unittest
 test_password_manager
 test_main
 socket
@@ -10,11 +11,12 @@ MockHTTPResponse
 OpenerDirector
 MockResponse
 MockFile
-OpenerDirectorTests
-MockHandler
+HandlerTests
+test_password_manager_default_port
 Request
 test_request_headers_methods
-unittest
+test_urllib
+AbstractDigestAuthHandler
 ssl
 sanepathname2url
 MockPasswordManager
@@ -23,8 +25,9 @@ MockCookieJar
 urllib2
 MockHTTPClass
 test_request_headers_dict
-HandlerTests
-test_password_manager_default_port
+OpenerDirectorTests
+httplib
+MockHandler
 os
 MiscTests
 MockHTTPHandler

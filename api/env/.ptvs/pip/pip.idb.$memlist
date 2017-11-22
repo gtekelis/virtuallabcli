@@ -5,7 +5,7 @@ UpdatingDefaultsHelpFormatter
 InstallationError
 req
 operations
-models
+__main__
 baseparser
 wheel
 exceptions
@@ -16,7 +16,7 @@ ConfigOptionParser
 status_codes
 dist_is_editable
 deprecation
-compat
+_vendor
 CommandError
 commands_dict
 bazaar
@@ -33,13 +33,13 @@ utils
 locale
 parseopts
 logger
-__main__
+models
 sys
 commands
 FrozenRequirement
 logging
 subversion
-_vendor
+compat
 autocomplete
 os
 mercurial

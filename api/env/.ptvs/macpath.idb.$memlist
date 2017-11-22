@@ -1,5 +1,5 @@
 exists
-S_IFLNK
+UF_NOUNLINK
 range
 S_ISCHR
 S_ISFIFO
@@ -32,9 +32,9 @@ True
 os
 altsep
 sep
-ST_GID
-ST_CTIME
 S_IFIFO
+ST_CTIME
+ST_GID
 S_IXGRP
 S_IFBLK
 defpath
@@ -46,8 +46,8 @@ getatime
 False
 norm_error
 splitdrive
-UF_NOUNLINK
 S_IFDIR
+S_IFLNK
 pathsep
 Exception
 supports_unicode_filenames

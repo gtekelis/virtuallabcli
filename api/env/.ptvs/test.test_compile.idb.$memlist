@@ -1,4 +1,7 @@
 math
+os
+script_helper
+tempfile
 _ast
 TestStackSize
 TestSpecifics

@@ -1,13 +1,14 @@
 d5
 d4
 d3
-mapping_tests
+d2
 d1
 d0
 test_support
+warnings
 UserDict
 UserDictTest
-d2
+mapping_tests
 test_main
 UserDictMixinTest
 SeqDict

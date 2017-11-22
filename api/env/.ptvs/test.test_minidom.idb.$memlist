@@ -1,8 +1,9 @@
 xml
 Document
 test_main
-tstfile
+copy
 pickle
+sample
 parseString
 create_nonempty_doctype
 StringIO
@@ -11,6 +12,7 @@ MinidomTest
 create_doc_with_doctype
 parse
 findfile
+tstfile
 verbose
 Node
 getDOMImplementation

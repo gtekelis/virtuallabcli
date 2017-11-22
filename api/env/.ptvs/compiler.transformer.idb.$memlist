@@ -9,6 +9,7 @@ Class
 Mul
 ListCompFor
 isinstance
+long
 symbol
 AssList
 AssTuple
@@ -28,6 +29,7 @@ token
 GenExprFor
 k
 SetComp
+name
 Ellipsis
 AssName
 IfExp

@@ -1,3 +1,6 @@
-unittest
-PathBrowser
+idlelib
 PathBrowserTest
+unittest
+sys
+os
+PathBrowser

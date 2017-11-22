@@ -1,7 +1,6 @@
-does_tree_import
-BaseFix
-logging
-pygram
-ConditionalFix
 PatternCompiler
+BaseFix
 itertools
+ConditionalFix
+pygram
+does_tree_import

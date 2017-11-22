@@ -2,13 +2,13 @@ interrupt_main
 stack_size
 _traceback
 _main
-allocate_lock
 __file__
+start_new_thread
 __all__
 exit
 _interrupt
 error
 get_ident
-start_new_thread
+allocate_lock
 _local
 LockType

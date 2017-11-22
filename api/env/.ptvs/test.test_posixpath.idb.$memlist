@@ -6,11 +6,13 @@ os
 abspath
 basename
 realpath
+support
 skip_if_ABSTFN_contains_backslash
 test_main
 test_support
 dirname
 ABSTFN
+PosixCommonTest
 test_genericpath
 unittest
-PosixCommonTest
+posix

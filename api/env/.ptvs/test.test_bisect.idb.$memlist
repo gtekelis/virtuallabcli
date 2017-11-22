@@ -8,7 +8,7 @@ TestInsortPython
 c_bisect
 UserList
 TestErrorHandlingC
-__test__
+absolute_import
 TestInsort
 TestBisect
 test_main
@@ -20,3 +20,4 @@ CmpErr
 TestErrorHandlingPython
 TestInsortC
 unittest
+__test__

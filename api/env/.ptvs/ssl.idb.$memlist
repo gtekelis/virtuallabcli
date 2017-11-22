@@ -1,8 +1,9 @@
 OPENSSL_VERSION_NUMBER
 CertificateError
 get_protocol_name
+_https_verify_certificates
 SSLWantWriteError
-DER_cert_to_PEM_cert
+_DEFAULT_CIPHERS
 _txt2obj
 _nid2obj
 SSLError
@@ -15,8 +16,10 @@ namedtuple
 socket_error
 wrap_socket
 _SSLv2_IF_EXISTS
+get_server_certificate
 CERT_OPTIONAL
 CERT_REQUIRED
+RAND_egd
 _SSLContext
 _delegate_methods
 enum_certificates
@@ -26,7 +29,9 @@ SOL_SOCKET
 SSLContext
 CERT_NONE
 OPENSSL_VERSION
+AF_INET
 SSLEOFError
+_https_verify_envvar
 sslwrap_simple
 _create_default_https_context
 get_default_verify_paths
@@ -35,10 +40,11 @@ match_hostname
 RAND_status
 re
 RAND_add
+DER_cert_to_PEM_cert
 SSLSyscallError
 _RESTRICTED_SERVER_CIPHERS
 errno
-_DEFAULT_CIPHERS
+warnings
 _ssl
 closing
 create_default_context
@@ -47,9 +53,9 @@ HAS_NPN
 sys
 OPENSSL_VERSION_INFO
 enum_crls
-get_server_certificate
-_create_stdlib_context
 SSLSocket
+_create_stdlib_context
+_get_https_context_factory
 _ASN1Object
 _dnsname_match
 SSLWantReadError
@@ -59,7 +65,7 @@ os
 base64
 _import_symbols
 PEM_HEADER
-AF_INET
+PROTOCOL_SSLv23
 HAS_SNI
 SOCK_STREAM
 textwrap

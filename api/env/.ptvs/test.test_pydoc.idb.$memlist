@@ -15,6 +15,7 @@ pydoc
 get_pydoc_html
 get_pydoc_text
 missing_pattern
+get_pydoc_link
 reap_children
 re
 unittest

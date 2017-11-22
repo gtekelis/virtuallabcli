@@ -1,9 +1,10 @@
 thread
 support
-TestThreadState
+CAPITest
 _testcapi
 time
 threading
+TestThreadState
 with_statement
 TestPendingCalls
 random

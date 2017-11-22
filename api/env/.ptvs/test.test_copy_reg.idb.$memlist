@@ -1,11 +1,13 @@
 copy_reg
 C
-test_main
+_WithLeadingUnderscoreAndPrivate
 CopyRegTestCase
 test_support
 WithoutSlots
 WithWeakref
 ExtensionSaver
+test_main
+___
 WithPrivate
 WithSingleString
 WithInherited

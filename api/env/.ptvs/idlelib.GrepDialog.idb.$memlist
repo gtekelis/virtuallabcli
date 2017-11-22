@@ -2,7 +2,7 @@ sys
 Checkbutton
 BooleanVar
 fnmatch
-SEL
+GrepDialog
 re
 os
 run
@@ -11,9 +11,10 @@ Tk
 END
 StringVar
 SearchDialogBase
+print_function
 Text
 _grep_dialog
-GrepDialog
+SEL
 Button
 unittest
 grep

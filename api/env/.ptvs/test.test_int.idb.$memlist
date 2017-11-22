@@ -1,4 +1,5 @@
 math
+IntSubclass
 test_support
 IntLongCommonTests
 run_unittest

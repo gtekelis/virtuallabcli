@@ -9,8 +9,7 @@ RESERVED_NCS
 NAMESPACE_X500
 _lanscan_getnode
 NAMESPACE_URL
-_node
-_uuid_generate_random
+_popen
 os
 _UuidCreate
 lib
@@ -24,7 +23,8 @@ sys
 _netstat_getnode
 _arp_getnode
 RESERVED_MICROSOFT
-_popen
+_libnames
+_node
 uuid1
 uuid3
 uuid4

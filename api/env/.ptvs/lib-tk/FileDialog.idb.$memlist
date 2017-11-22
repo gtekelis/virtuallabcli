@@ -18,6 +18,7 @@ TracebackType
 BufferType
 NS
 GetSetDescriptorType
+Pack
 Label
 INSERT
 ACTIVE
@@ -108,7 +109,6 @@ Spinbox
 COMMAND
 Menu
 FrameType
-Pack
 RIGHT
 NoneType
 Menubutton

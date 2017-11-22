@@ -2,6 +2,7 @@ ProxyType
 UserDict
 getweakrefs
 WeakSet
+_remove_dead_weakref
 getweakrefcount
 WeakValueDictionary
 __all__

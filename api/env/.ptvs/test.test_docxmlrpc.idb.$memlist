@@ -1,12 +1,9 @@
-PORT
+make_server
 test_main
-make_request_and_skipIf
-socket
+DocXMLRPCHTTPGETServer
 threading
 httplib
-server
-DocXMLRPCHTTPGETServer
-time
+make_request_and_skipIf
 DocXMLRPCServer
 test_support
 sys

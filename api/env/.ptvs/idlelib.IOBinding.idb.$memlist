@@ -1,5 +1,4 @@
 tkFileDialog
-Text
 _io_binding
 codecs
 W
@@ -14,12 +13,11 @@ LookupError
 X
 filesystemencoding
 True
-idleConf
+pipes
 tkMessageBox
 encoding
 Label
 list
-Tk
 False
 blank_re
 Frame
@@ -38,7 +36,7 @@ str
 IOBinding
 int
 NameError
-pipes
+idleConf
 os
 isinstance
 run

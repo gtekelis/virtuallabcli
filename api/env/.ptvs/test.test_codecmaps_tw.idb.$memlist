@@ -2,5 +2,5 @@ test_support
 TestCP950Map
 unittest
 test_main
-test_multibytecodec_support
+multibytecodec_support
 TestBIG5Map

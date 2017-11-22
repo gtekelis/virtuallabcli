@@ -3,7 +3,7 @@ BOTTOM
 license
 NSEW
 Frame
-textView
+SUNKEN
 os
 TOP
 __file__
@@ -18,9 +18,10 @@ credits
 TRUE
 EW
 Label
-SUNKEN
+textView
 X
 FALSE
 False
 run
+unittest
 AboutDialog

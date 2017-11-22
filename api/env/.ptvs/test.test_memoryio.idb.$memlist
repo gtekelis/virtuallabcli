@@ -1,14 +1,15 @@
 io
 test_main
-PyStringIOPickleTest
+CBytesIOTest
 unicode_literals
 pickle
 PyBytesIOTest
 support
 TextIOTestMixin
+absolute_import
 pyio
 PyStringIOTest
-CBytesIOTest
+PyStringIOPickleTest
 print_function
 CStringIOPickleTest
 CStringIOTest

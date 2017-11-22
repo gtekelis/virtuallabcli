@@ -2,6 +2,7 @@ sys
 TEST_DATA_DIR
 _DEFAULT_FIXERS
 tempfile
+re
 os
 token
 StringIO

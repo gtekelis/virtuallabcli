@@ -100,5 +100,6 @@ _ctypes_test
 DEFAULT_MODE
 c_longdouble
 set_last_error
+id
 TypeError
 create_unicode_buffer

@@ -23,7 +23,7 @@ TracebackType
 BufferType
 NS
 GetSetDescriptorType
-RIGHT
+Pack
 Label
 _setit
 _support_default_root
@@ -138,7 +138,8 @@ Spinbox
 COMMAND
 Menu
 FrameType
-Pack
+RIGHT
+long
 INSERT
 getint
 NoneType

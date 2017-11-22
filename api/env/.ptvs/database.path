@@ -1,9 +1,9 @@
-c:\_works\ntua\virtuallabapi\virtuallabapi\api\env|stdlib|
-c:\_works\ntua\virtuallabapi\virtuallabapi\api\env\lib|stdlib|
-c:\_works\ntua\virtuallabapi\virtuallabapi\api\env\scripts|stdlib|
 c:\python27|stdlib|
 c:\python27\dlls|stdlib|
 c:\python27\lib|stdlib|
 c:\python27\scripts|stdlib|
-c:\_works\ntua\virtuallabapi\virtuallabapi\api\env\lib\site-packages||
+d:\_works\ntua\virtuallabapi\virtuallabapi\api\env|stdlib|
+d:\_works\ntua\virtuallabapi\virtuallabapi\api\env\lib|stdlib|
+d:\_works\ntua\virtuallabapi\virtuallabapi\api\env\scripts|stdlib|
 c:\python27\lib\lib-tk||
+d:\_works\ntua\virtuallabapi\virtuallabapi\api\env\lib\site-packages||

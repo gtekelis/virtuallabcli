@@ -34,7 +34,7 @@ list
 DeprecationWarning
 globals
 tempnam
-O_TRUNC
+sys
 devnull
 lstat
 WIFSTOPPED
@@ -101,7 +101,7 @@ spawnve
 open
 unlink
 O_CREAT
-sys
+O_TRUNC
 utime
 pardir
 dir

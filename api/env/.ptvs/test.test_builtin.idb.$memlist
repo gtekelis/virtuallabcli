@@ -6,6 +6,7 @@ cStringIO
 BitBucket
 neg
 TestExecFile
+_run_unittest
 run_unittest
 fcmp
 numruns
@@ -21,5 +22,5 @@ StrSquares
 have_unicode
 random
 platform
-_run_unittest
+TestType
 unittest

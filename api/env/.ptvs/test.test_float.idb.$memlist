@@ -1,6 +1,7 @@
 time
 NAN
-BE_FLOAT_NAN
+InfNanTest
+FloatSubclass
 ldexp
 FormatFunctionsTestCase
 toHex
@@ -9,9 +10,10 @@ operator
 struct
 BE_DOUBLE_INF
 copysign
-BE_DOUBLE_NAN
+requires_getformat
 test_dir
 LE_DOUBLE_INF
+OtherFloatSubclass
 requires_IEEE_754
 LE_FLOAT_NAN
 isnan
@@ -21,8 +23,8 @@ LE_DOUBLE_NAN
 LE_FLOAT_INF
 ReprTestCase
 have_getformat
-InfNanTest
 UnknownFormatTestCase
+BE_FLOAT_NAN
 unittest
 test_main
 isinf
@@ -30,7 +32,7 @@ BE_FLOAT_INF
 sys
 HexFloatTestCase
 format_testfile
-requires_getformat
+BE_DOUBLE_NAN
 math
 random
 GeneralFloatCases

@@ -16,6 +16,7 @@ is_unavailable_exception
 base64
 PORT
 alist
+ServerProxyTestCase
 GzipServerTestCase
 re
 MultiPathServerTestCase
@@ -27,7 +28,6 @@ FaultTestCase
 SimpleServerTestCase
 sys
 FailingMessageClass
-have_unicode
 SimpleXMLRPCServer
 httplib
 XMLRPCTestCase
@@ -38,7 +38,7 @@ BaseServerTestCase
 BaseKeepaliveServerTestCase
 KeepaliveServerTestCase1
 xmlrpclib
-ServerProxyTestCase
+SimpleServerEncodingTestCase
 StringIO
 test_support
 mimetools

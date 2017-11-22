@@ -10,9 +10,8 @@ W
 Tk
 LEFT
 Text
-__name__
 int
-SUNKEN
+__name__
 Label
 X
 run

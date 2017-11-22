@@ -1,7 +1,8 @@
 sys
 TestArrayWrites
 tempfile
-TestLeaks
+copy
+pickle
 TestDictFields
 os
 Test_Csv
@@ -15,9 +16,10 @@ test_main
 test_support
 gc
 TestCsvBase
+TestLeaks
 TestSniffer
-TestDialectExcel
 QuotedEscapedExcel
+TestDialectExcel
 NUL
 TestDialectValidity
 unittest

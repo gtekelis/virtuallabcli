@@ -4,13 +4,13 @@ RTLD_LOCAL
 c_double
 PyDLL
 macholib
-LibraryLoader
+wintypes
 unittest
 WinError
 c_ushort
 c_float
 SetPointerType
-c_uint8
+CDLL
 addressof
 windll
 c_char_p
@@ -55,10 +55,10 @@ Exception
 c_uint
 c_int16
 OleDLL
-wintypes
+LibraryLoader
 oledll
 Union
-CDLL
+c_uint8
 pythonapi
 pydll
 DllCanUnloadNow
@@ -96,6 +96,7 @@ c_longlong
 c_ssize_t
 LittleEndianStructure
 ARRAY
+bytearray
 PYFUNCTYPE
 c_wchar
 _ctypes_test

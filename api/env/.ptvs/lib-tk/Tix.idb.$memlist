@@ -24,9 +24,9 @@ Tk
 PopupMenu
 S_REGION
 range
-TracebackType
+tixCommand
 FileEntry
-BufferType
+InputOnly
 FrameType
 GetSetDescriptorType
 Label
@@ -162,9 +162,9 @@ BASELINE
 CheckList
 OFF
 FIRST
-tixCommand
+TracebackType
 SliceType
-InputOnly
+BufferType
 Spinbox
 COMMAND
 Menu
@@ -247,7 +247,6 @@ HORIZONTAL
 EllipsisType
 IMAGE
 STATUS
-_default_root
 Tkinter
 Y
 X

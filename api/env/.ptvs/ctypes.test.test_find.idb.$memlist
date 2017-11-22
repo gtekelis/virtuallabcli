@@ -10,7 +10,7 @@ c_ushort
 c_float
 SetPointerType
 CDLL
-pydll
+addressof
 windll
 c_char_p
 find_library
@@ -19,6 +19,7 @@ py_object
 Test_OpenGL_libs
 c_long
 c_ulong
+item
 c_int8
 lib_glu
 c_char
@@ -52,11 +53,10 @@ OleDLL
 wintypes
 oledll
 lib_gle
-addressof
 Union
 c_uint8
 pythonapi
-LoadLibs
+pydll
 DllCanUnloadNow
 c_size_t
 pointer
@@ -64,7 +64,7 @@ c_bool
 Array
 kind
 sys
-item
+test_support
 BigEndianStructure
 c_byte
 c_int32

@@ -1,10 +1,10 @@
 Value
 TIMEOUT2
-BaseProxy
 _TestListenerClient
+BaseProxy
 c_double
 ManagerMixin
-_TestMyManager
+weakref
 main
 _TestFinalize
 TestFlags
@@ -16,7 +16,7 @@ multiprocessing
 TestNoForkBomb
 Queue
 _TestArray
-_TestHeap
+StringIO
 OtherTest
 _multiprocessing
 _TestPollEintr
@@ -49,12 +49,13 @@ HAVE_GETVALUE
 initializer
 TIMEOUT1
 _queue
+DummyCallable
 c_int
 exception_throwing_generator
 create_test_cases
 HAS_REDUCTION
-ProcessesMixin
-get_queue
+_TestZZZNumberOfObjects
+CountedObject
 queue_empty
 TIMEOUT3
 MyManager
@@ -63,6 +64,7 @@ pool_in_process
 BaseManager
 QueueManager2
 logging
+_TestMyManager
 _this_sub_process
 unpickleable_result
 gc
@@ -73,8 +75,9 @@ reduction
 _TestRemoteManager
 _test_process
 _TestSharedCTypes
+identity
 TestForkAwareThreadLock
-StringIO
+_TestHeap
 time
 testcases_other
 get_value
@@ -105,7 +108,8 @@ TestStdinBadfiledescriptor
 _TestEvent
 testcases_manager
 get_attributes
-_TestZZZNumberOfObjects
+ProcessesMixin
+get_queue
 test_main
 _TestContainers
 _afunc

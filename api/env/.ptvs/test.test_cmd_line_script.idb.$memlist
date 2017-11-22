@@ -2,6 +2,7 @@ CmdLineTest
 assert_python_failure
 example_args
 temp_dir
+make_zip_pkg
 test_source
 os
 launch_source
@@ -11,7 +12,7 @@ _make_test_zip_pkg
 test
 make_script
 test_main
-make_zip_pkg
+contextlib
 verbose
 make_zip_script
 make_pkg

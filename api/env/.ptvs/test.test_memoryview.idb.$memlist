@@ -1,6 +1,9 @@
 sys
 BaseBytesMemoryTests
 BaseMemoryviewTests
+copy
+pickle
+OtherTest
 BaseMemorySliceTests
 BaseMemorySliceSliceTests
 io
@@ -10,6 +13,7 @@ test_main
 test_support
 gc
 weakref
+warnings
 BytesMemorySliceTest
 BytesMemoryviewTest
 BytesMemorySliceSliceTest

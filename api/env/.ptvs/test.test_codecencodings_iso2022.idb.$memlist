@@ -1,5 +1,5 @@
 test_main
-test_multibytecodec_support
+multibytecodec_support
 test_support
 Test_ISO2022_JP
 Test_ISO2022_KR

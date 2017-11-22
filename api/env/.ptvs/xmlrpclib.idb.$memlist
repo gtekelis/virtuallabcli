@@ -40,7 +40,7 @@ bool
 str
 modules
 KeyError
-GeneratorType
+ValueError
 socket
 loads
 re
@@ -110,7 +110,8 @@ ClassType
 FrameType
 True
 _Method
-ValueError
+GeneratorType
+basestring
 _strftime
 IntType
 MAXINT

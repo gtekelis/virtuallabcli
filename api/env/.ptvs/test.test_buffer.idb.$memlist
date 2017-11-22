@@ -1,5 +1,8 @@
+copy
+pickle
 test_support
-unittest
+warnings
 test_main
-sys
 BufferTests
+sys
+unittest

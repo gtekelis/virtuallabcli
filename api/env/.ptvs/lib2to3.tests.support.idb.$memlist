@@ -1,4 +1,5 @@
 sys
+pgen2_driver
 grammar_path
 test_dir
 dedent

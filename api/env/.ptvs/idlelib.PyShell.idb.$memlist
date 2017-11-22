@@ -5,6 +5,7 @@ InteractiveInterpreter
 main
 ImportError
 Toplevel
+long
 fixwordbreaks
 usage_msg
 PhotoImage
@@ -24,7 +25,8 @@ tkMessageBox
 len
 idle_showwarning
 warnings
-str
+fix_x11_paste
+True
 MyRPCClient
 FileList
 socket
@@ -68,7 +70,7 @@ python_version
 TkVersion
 system
 unicode
-True
+str
 __name__
 EditorWindow
 ValueError

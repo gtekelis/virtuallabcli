@@ -5,9 +5,8 @@ array
 cStringIO
 UnsignedByteTest
 ByteTest
-ArraySubclass
-BadConstructorTest
-ShortTest
+FloatTest
+FPTest
 UnsignedLongTest
 UnsignedIntTest
 tests
@@ -25,10 +24,11 @@ sys
 DoubleTest
 UnsignedNumberTest
 NumberTest
-FloatTest
+ArraySubclass
 loads
-FPTest
+ShortTest
 HIGHEST_PROTOCOL
+MiscTest
 LongTest
 test_support
 BaseTest

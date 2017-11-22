@@ -1,7 +1,8 @@
 struct
 test_support
 unittest
+StrSubclass
 test_main
-sys
 StrTest
+sys
 string_tests

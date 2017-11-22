@@ -20,8 +20,8 @@ CBufferedRWPairTest
 support
 PyMisbehavedRawIO
 bytes
-PyBufferedRWPairTest
-count
+CCloseFailureIO
+byteslike
 PyMockRawIOWithoutRead
 PyIOTest
 StatefulIncrementalDecoder
@@ -60,7 +60,8 @@ __metaclass__
 CSignalsTest
 CloseFailureIO
 random
-CCloseFailureIO
+PyBufferedRWPairTest
+count
 os
 cycle
 SizeofTest

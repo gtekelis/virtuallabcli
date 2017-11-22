@@ -1,4 +1,7 @@
+copy
+pickle
 test_support
+collections
 DictSetTest
-unittest
 test_main
+unittest

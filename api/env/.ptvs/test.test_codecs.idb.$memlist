@@ -16,6 +16,7 @@ zlib
 UnicodeEscapeTest
 WithStmtTest
 Str2StrTest
+TransformCodecTest
 broken_incremental_coders
 PunycodeTest
 CharBufferTest

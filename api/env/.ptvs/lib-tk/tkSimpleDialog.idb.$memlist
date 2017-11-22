@@ -21,8 +21,9 @@ BufferType
 askfloat
 FrameType
 GetSetDescriptorType
+Pack
 Label
-INSERT
+RIGHT
 ACTIVE
 re
 Checkbutton
@@ -85,7 +86,7 @@ NW
 InstanceType
 ComplexType
 IntType
-UNDERLINE
+CodeType
 SW
 Canvas
 LAST
@@ -114,8 +115,7 @@ Spinbox
 COMMAND
 Menu
 NS
-Pack
-RIGHT
+INSERT
 _QueryDialog
 NoneType
 Menubutton
@@ -180,7 +180,7 @@ askstring
 Text
 YView
 TRUE
-CodeType
+UNDERLINE
 wantobjects
 BOTH
 CENTER

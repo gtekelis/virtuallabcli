@@ -51,6 +51,7 @@ run
 ToolTip
 configDialog
 CallTipWindow
+help
 tabbedpages
 RemoteObjectBrowser
 MultiCall

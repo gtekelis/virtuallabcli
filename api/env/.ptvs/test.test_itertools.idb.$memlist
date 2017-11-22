@@ -18,9 +18,9 @@ all
 random
 tee
 starmap
-TestBasicOps
-gen3
 max
+gen3
+cycle
 __test__
 object
 TestGC
@@ -73,7 +73,7 @@ OverflowError
 combinations_with_replacement
 ifilter
 pow
-cycle
+TestBasicOps
 sys
 StopIteration
 copy
@@ -104,3 +104,4 @@ RegressionTests
 test_main
 id
 TypeError
+float

@@ -1,6 +1,7 @@
-unittest
+_widget_redirector
+run
 WidgetRedirector
 TclError
-run
-_widget_redirector
+print_function
 OriginalCommand
+unittest

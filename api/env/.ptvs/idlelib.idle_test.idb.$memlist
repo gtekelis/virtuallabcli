@@ -1,4 +1,5 @@
-load_tests
+test_helpabout
+test_widgetredir
 mock_idle
 test_warning
 htest
@@ -10,8 +11,9 @@ test_io
 test_searchengine
 test_formatparagraph
 test_hyperparser
+load_tests
 mock_tk
-test_widgetredir
+test_editmenu
 test_configdialog
 test_autocomplete
 test_delegator

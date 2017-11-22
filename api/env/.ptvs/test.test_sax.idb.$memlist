@@ -1,5 +1,6 @@
 SAXParseException
 start
+saxutils
 test_main
 TESTFN
 quoteattr
@@ -7,7 +8,7 @@ XmlReaderTest
 feature_namespaces
 AttributesImpl
 XmlTestBase
-TEST_XMLFILE
+xml_bytes
 SAXException
 XmlgenTest
 escape
@@ -36,7 +37,7 @@ XMLFilterBaseTest
 make_xml_file
 XMLFilterBase
 create_parser
-xml_bytes
+TEST_XMLFILE
 support
 MakeParserTest
 ContentHandler

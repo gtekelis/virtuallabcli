@@ -1,9 +1,9 @@
+support
 imp
 os
-test_support
+PyCompileTests
 shutil
 py_compile
 test_main
-PyCompileTests
 tempfile
 unittest

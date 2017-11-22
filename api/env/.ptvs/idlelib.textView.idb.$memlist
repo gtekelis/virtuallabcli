@@ -1,6 +1,6 @@
 DISABLED
 BOTH
-__name__
+str
 IOError
 RIGHT
 TRUE
@@ -13,6 +13,8 @@ view_file
 Button
 tkMessageBox
 view_text
+__name__
+UnicodeDecodeError
 LEFT
 Toplevel
 BOTTOM
@@ -25,5 +27,6 @@ WORD
 FALSE
 False
 run
+showerror
 Scrollbar
 unittest

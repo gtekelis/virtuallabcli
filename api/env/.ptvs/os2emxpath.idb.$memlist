@@ -12,7 +12,7 @@ join
 expanduser
 lexists
 isinstance
-isdir
+getsize
 splitdrive
 False
 pathsep
@@ -33,7 +33,7 @@ expandvars
 normcase
 os
 getctime
-getsize
+isdir
 devnull
 __file__
 exists

@@ -1,4 +1,6 @@
 CompileTestCase
+copy
+pickle
 test_main
 struct
 ParserStackLimitTestCase

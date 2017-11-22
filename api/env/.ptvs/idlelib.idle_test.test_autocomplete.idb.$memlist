@@ -1,12 +1,11 @@
 Text
 ac
 Event
-Tk
+Func
 AutoCompleteWindow
 DummyEditwin
-mac
-acw
-Func
-requires
 AutoCompleteTest
+acw
+Tk
+requires
 unittest

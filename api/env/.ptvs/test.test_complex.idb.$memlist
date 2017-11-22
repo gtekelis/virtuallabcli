@@ -1,10 +1,12 @@
 atan2
 copysign
 random
+requires_IEEE_754
 test_support
-ComplexTest
+have_getformat
 NAN
 isnan
 INF
 test_main
+ComplexTest
 unittest

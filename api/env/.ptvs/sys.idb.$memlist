@@ -9,7 +9,7 @@ __stdout__
 _clear_type_cache
 _current_frames
 _getframe
-_mercurial
+_git
 api_version
 argv
 builtin_module_names

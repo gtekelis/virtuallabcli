@@ -2,6 +2,7 @@ time
 TESTFNDIR
 test_main
 FIXEDTEST_SIZE
+captured_stdout
 TESTFN
 randint
 struct
@@ -10,14 +11,16 @@ PyZipFileTests
 TESTFN2
 check_warnings
 UniversalNewlineTests
-getrandbytes
 TestsWithMultipleOpens
+getrandbytes
 unlink
 zlib
 SMALL_TEST_DATA
+CommandLineTest
 TestsWithSourceFile
 zipfile
 getrandbits
+script_helper
 unittest
 io
 skipUnless
@@ -33,5 +36,5 @@ os
 TestsWithRandomBinaryFiles
 findfile
 StringIO
-DecryptionTests
 TestZip64InSmallFiles
+DecryptionTests

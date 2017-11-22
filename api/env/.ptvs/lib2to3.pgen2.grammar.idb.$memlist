@@ -1,9 +1,11 @@
 tokenize
-opmap_raw
+opmap
 pickle
 name
 token
 op
 Grammar
 line
-opmap
+collections
+opmap_raw
+_make_deterministic

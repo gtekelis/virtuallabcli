@@ -2,6 +2,7 @@ sys
 TESTFN
 unlink
 test_suite
+log
 textwrap
 os
 DistributionTestCase

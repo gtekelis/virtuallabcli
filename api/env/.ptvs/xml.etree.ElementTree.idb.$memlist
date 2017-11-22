@@ -11,6 +11,7 @@ _serialize_html
 _IterParseIterator
 _escape_attrib
 HTML_EMPTY
+_sentinel
 _ElementInterface
 _namespace_map
 _namespaces

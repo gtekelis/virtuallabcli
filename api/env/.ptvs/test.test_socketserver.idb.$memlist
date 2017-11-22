@@ -16,6 +16,7 @@ signal
 reap_children
 TEST_STR
 errno
+MiscTestCase
 HAVE_FORKING
 HAVE_UNIX_SOCKETS
 contextlib

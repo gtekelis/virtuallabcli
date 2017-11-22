@@ -1,4 +1,4 @@
-FixedStringTest
+sys
 ByteArrayTest
 ByteArraySubclassTest
 tempfile
@@ -17,4 +17,3 @@ BaseBytesTest
 ByteArrayAsStringTest
 functools
 AssortedBytesTest
-sys

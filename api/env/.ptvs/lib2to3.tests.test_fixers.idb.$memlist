@@ -60,5 +60,4 @@ Test_apply
 Test_import
 Test_urllib
 Test_imports
-Test_callable
 Test_xrange_with_reduce

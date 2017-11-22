@@ -4,6 +4,7 @@ file_util
 os
 convert_path
 sdist
+dep_util
 archive_util
 dir_util
 DistutilsTemplateError
