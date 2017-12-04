@@ -42,6 +42,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="index.php">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
